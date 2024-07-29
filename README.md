@@ -4,10 +4,6 @@
 
 ## Installation
 
-### Prerequisites
-
-Ensure you have Python installed. You can download it from the [official Python website](https://www.python.org/).
-
 ### Dependencies
 
 Ensure you have Python installed. Download it from the [official Python website](https://www.python.org/).
@@ -21,7 +17,7 @@ pip install argparse pillow
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/picflip.git
+git clone https://github.com/danielbarl/picflip.git
 cd picflip
 ```
 
@@ -39,7 +35,7 @@ Add the Script Directory to Your PATH Variable:
 
 #### macOS and Linux
 
-Add the Script Directory to PATH:
+Add the script directory to PATH:
 
 1. Open the shell profile file:
     ```sh
